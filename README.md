@@ -6,8 +6,6 @@ The main idea is to create my first game with Javascript.
 
 
 
-
-
 how be work this game
 -------------------------------------
 
@@ -17,7 +15,8 @@ For move player 02 -> use <strong> I </strong> and <strong> K </strong>
 
 <p align = "center">
 
-![github](https://github.com/joaoguilmo/VBA-digital-book/blob/main/img/gamepong-gif.gif "Example Idea")
+<img src="https://github.com/joaoguilmo/VBA-digital-book/blob/main/img/gamepong-gif.gif" alt="this slowpoke moves"  width="400" />
+
 </p>
 
 
