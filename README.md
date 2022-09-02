@@ -9,7 +9,7 @@ The main idea is to create my first game with Javascript.
 how be work this game
 -------------------------------------
 
-For move player 01 -> use <strong> W </strong> and <strong> S </strong>
+For move player 01 -> use <strong> W </strong> and <strong> S </strong> <br>
 For move player 02 -> use <strong> I </strong> and <strong> K </strong>
 
 
