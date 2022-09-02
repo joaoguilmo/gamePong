@@ -15,7 +15,7 @@ For move player 02 -> use <strong> I </strong> and <strong> K </strong>
 
 <p align = "center">
 
-<img src="https://github.com/joaoguilmo/gamePong/tree/main/img/gamepong-gif.gif" alt="this slowpoke moves"  width="400" />
+<img src="https://github.com/joaoguilmo/gamePong/blob/main/img/gamepong-gif.gif" width = "400">
 
 </p>
 
